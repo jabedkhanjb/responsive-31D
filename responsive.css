@@ -1,0 +1,80 @@
+@media (max-width: 768px){
+    .activity {
+        margin-top: 0;
+    }
+}
+@media (max-width: 414px){
+    .slider-caption h5 {
+        margin-bottom: 2px;
+        font-size: 15px;
+    }
+    .slider-caption h3 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .form-control-lg {
+        padding: .1rem 1rem;
+        font-size: 1rem;
+        margin-bottom: .5rem;
+    }
+    .btn-group-lg > .btn, .btn-lg {
+        padding: .5rem 1rem;
+        font-size: 1rem;
+        border-radius: .3rem;
+    }
+    .h1 {
+        font-size: 1.2rem !important;
+        margin-bottom: 0;
+    }
+    .text-muted {
+        font-size: .9rem !important;
+    }
+    .responsive-one{
+        width: 50% !important;
+    }
+    .activity h1 {
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .activity h1 {
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: .5rem !important;
+    }
+    .activity p {
+        font-size: 14px;
+    }
+    .middle-section img {
+        width: 200px;
+    }
+    .feature-section-text h3 {
+        font-size: 24px;
+    }
+    .control-form-section {
+        padding-left: 20px;
+    }
+    .get-app-text p {
+        font-size: 20px;
+    }
+    .get-app-responsive {
+        display: inline;
+    }
+    .apple-store{
+        width: 50%;
+    }
+    .google-store{
+        width: 50%;
+    }
+    .mb-0.lead {
+        font-size: 15px !important;
+    }
+    .get-app-img img {
+        width: 100%;
+    }
+    .default-bg {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        padding-top: 4px !important;
+        padding-bottom: 4px !important;
+    }
+}
